@@ -1,0 +1,80 @@
+.modal {
+  background-color: rgba(0, 0, 0, 0.85);
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  display: none;
+  justify-content: center;
+}
+
+.modal__dialog {
+  display: block;
+  background-color: #fff;
+  padding: 10px;
+  width: 300px;
+  height: 320px;
+  position: absolute;
+  transform: translateY(-50%);
+  animation: slideIn 0.7s forwards;
+  border-radius: 4px;
+}
+
+.modal-open {
+  display: flex;
+}
+
+.headModal {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 30px;
+  padding: 5px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid rgb(94, 91, 91);
+}
+
+.btn-close,
+.btn-succes {
+  background-color: #ddd;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 10px;
+}
+
+.btn-close:hover {
+  cursor: pointer;
+  background-color: #939496;
+  color: #fff;
+}
+
+.btn-succes {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.btn-succes:hover {
+  background-color: #0056b3;
+  cursor: pointer;
+}
+
+.footerModal {
+  width: 100%;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  bottom: 0;
+  padding: 1rem;
+}
+
+@keyframes slideIn {
+  0% {
+    top: -50%;
+  }
+  100% {
+    top: 50%;
+  }
+}

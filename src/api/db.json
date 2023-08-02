@@ -1,0 +1,64 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bretaa",
+      "email": "Sincere@april.bizz"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Leba",
+      "username": "Karin",
+      "email": "Julianne.OConner@kory.com"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamrens",
+      "email": "Lucio_Hettinger@annie.cam"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.bizz"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir ",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.bizz"
+    }
+  ]
+}

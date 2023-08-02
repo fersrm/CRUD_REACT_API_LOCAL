@@ -1,0 +1,22 @@
+form {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+}
+
+.groupInput {
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.form-input {
+  width: 100%;
+  border-radius: 4px;
+  outline: none;
+  border: 1px solid #312e2e;
+}
+
+.form-input:focus {
+  outline: none;
+  border: 1px solid #0056b3;
+}
