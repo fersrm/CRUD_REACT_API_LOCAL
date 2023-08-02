@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 para la APi local es 
 ### `npm run local-api`
 
-Open [http://localhost:3000](http://localhost:5000/personas) to view it in your browser.
+Open [http://localhost:5000/personas](http://localhost:5000/personas) to view it in your browser.
 
 como ejercicio realice un modal reutilizable el cual es el mismo para agregar y editar cambiando solo los estados
 
